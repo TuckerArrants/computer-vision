@@ -4,7 +4,7 @@ Here you will find my notebooks that track some of my tests with different deep 
 
 # Table of Contents
 1. Flower Classification with TPUs
-2. Melanoma Classification with Hair Augmentation
+2. Melanoma Classification with Course Dropout
 
 # 1. Flower Classification with TPUs
  - Imported and tested popular pre-trained networks like Xception, DenseNet, InceptionResNetV2, and EfficientNet(s) to compare their performance on tensor processing units in classifying over 7,000 images into 104 different types of flowers
