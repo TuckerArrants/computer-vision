@@ -2,6 +2,8 @@
 
 Here you will find my notebooks that track some of my tests with different deep learning models on computer vision tasks. This will serve as an ongoing place to store my work and as a reference in the future to look back on.
 
+Please note that for some reason, the Jupyter Notebook will not render in my browser, so on the off chance that this is also the case for the user, please try to following hack: press on raw button and then go back. It should render now. If that doesn't work, you can download the notebook and upload it in your own environment.
+
 # Table of Contents
 1. Flower Classification with TPUs
 2. Melanoma Classification with Course Dropout
