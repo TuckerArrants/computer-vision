@@ -6,7 +6,7 @@ Please note that for some reason, the Jupyter Notebook will not render in my bro
 
 # Table of Contents
 1. Flower Classification with TPUs
-2. Melanoma Classification with Course Dropout
+2. Melanoma Classification with TPUs
 
 # 1. Flower Classification with TPUs
  - Imported and tested popular pre-trained networks like Xception, DenseNet, InceptionResNetV2, and EfficientNet(s) to compare their performance on tensor processing units in classifying over 7,000 images into 104 different types of flowers
@@ -15,5 +15,4 @@ Please note that for some reason, the Jupyter Notebook will not render in my bro
  
  # 2. Melanoma Detection with Hair Augmentation
  - Experimented with different augmentation techniques like hair augmentation and MixUp to improve the AUC of EfficientNetB6 models 
- - Used TPUs to train over 100GBs of data and perform test time augmentation in under 3 hours
  - Used upsampling techniques to handle extreme class imbalances (~1.8% of training and test sets contained melanoma samples)
